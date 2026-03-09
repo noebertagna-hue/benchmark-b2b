@@ -1,6 +1,6 @@
 ---
-name: "Benchmark B2B SaaS"
-description: "Base de connaissances stratégiques pour l'acquisition SaaS B2B"
+name: BenchmarkB2B
+description: KnowledgeBase
 ---
 
 |Thème|Description|Site|Notes |
